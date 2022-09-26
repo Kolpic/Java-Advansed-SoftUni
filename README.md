@@ -65,11 +65,26 @@ https://softuni.bg/trainings/resources/video/75702/video-21-september-2022-dimo-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Streams, Files and Directories:
+
+• Streams Basics
+
+• Types of Streams
+
+• Files and Directories
+
+• Serialization
+
+Presentation:
+https://softuni.bg/trainings/resources/officedocument/74954/presentation-java-advanced-september-2022/3844
+
+Lab:
+https://softuni.bg/trainings/resources/video/75724/video-23-september-2022-martin-paunov-java-advanced-september-2022/3844
+
+Exercise: 
 
 
-
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
