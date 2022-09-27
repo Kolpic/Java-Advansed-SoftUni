@@ -81,7 +81,7 @@ https://softuni.bg/trainings/resources/officedocument/74954/presentation-java-ad
 Lab:
 https://softuni.bg/trainings/resources/video/75724/video-23-september-2022-martin-paunov-java-advanced-september-2022/3844
 
-Exercise: 
+Exercise: https://softuni.bg/trainings/resources/video/75853/video-26-september-2022-dimo-georgiev-java-advanced-september-2022/3844
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
