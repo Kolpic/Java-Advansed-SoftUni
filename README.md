@@ -48,3 +48,44 @@ Exercise:
 https://softuni.bg/trainings/resources/officedocument/74950/problems-description-exercise-java-advanced-september-2022/3844
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sets and Maps Advanced:
+
+• Sets (HashSet, TreeSet, LinkedHashSet)
+
+• Maps (Hashmap, TreeMap, LinkedHashMap)
+
+Presentation: 
+https://softuni.bg/trainings/resources/officedocument/74951/presentation-java-advanced-september-2022/3844
+
+Lab:
+https://softuni.bg/trainings/resources/video/75664/video-20-september-2022-martin-paunov-java-advanced-september-2022/3844
+
+Exercise: 
+https://softuni.bg/trainings/resources/video/75702/video-21-september-2022-dimo-georgiev-java-advanced-september-2022/3844
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Streams, Files and Directories:
+
+• Streams Basics
+
+• Types of Streams
+
+• Files and Directories
+
+• Serialization
+
+Presentation:
+https://softuni.bg/trainings/resources/officedocument/74954/presentation-java-advanced-september-2022/3844
+
+Lab:
+https://softuni.bg/trainings/resources/video/75724/video-23-september-2022-martin-paunov-java-advanced-september-2022/3844
+
+Exercise: 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
