@@ -1,6 +1,6 @@
 # Java-Advansed-SoftUni
 
-This is tasks from Java Advansed 
+This is lessons from Java Advansed 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -107,3 +107,65 @@ https://softuni.bg/trainings/resources/video/75957/video-29-september-2022-dimo-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Defining classes:
+
+• Defining Simple Classes;
+
+• Fields;
+
+• Methods;
+
+• Constructors, Keyword this;
+
+• Static Members.
+
+Presentation:
+https://softuni.bg/trainings/resources/officedocument/74962/presentation-java-advanced-september-2022/3844
+
+Lab:
+https://softuni.bg/trainings/resources/video/75980/video-30-september-2022-martin-paunov-java-advanced-september-2022/3844
+
+Exercise:
+https://softuni.bg/trainings/resources/video/76018/video-03-october-2022-dimo-georgiev-java-advanced-september-2022/3844
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Generics:
+
+• Generics Syntax;
+
+• Generic Classes and Interfaces;
+
+• Generic Methods;
+
+• Type Erasure, Type Parameter Bounds.
+
+Presentation:
+https://softuni.bg/trainings/resources/officedocument/74968/presentation-java-advanced-september-2022/3844
+
+Lab:
+https://softuni.bg/trainings/resources/video/76147/video-07-october-2022-martin-paunov-java-advanced-september-2022/3844
+
+Exercise:
+https://softuni.bg/trainings/resources/video/76178/video-10-october-2022-dimo-georgiev-java-advanced-september-2022/3844
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Iterators and Comparators:
+
+• Variable Arguments;
+
+• Iterators (Iterator, ListIterator);
+
+• Comperators (Comparable)
+
+Presentation:
+https://softuni.bg/trainings/resources/officedocument/74971/preparation-java-advanced-september-2022/3844
+
+Lab:
+https://softuni.bg/trainings/resources/video/76272/video-11-october-2022-martin-paunov-java-advanced-september-2022/3844
+
+Exercise:
+https://softuni.bg/trainings/resources/video/76356/video-13-october-2022-dimo-georgiev-java-advanced-september-2022/3844
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
