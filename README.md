@@ -86,6 +86,24 @@ Exercise: https://softuni.bg/trainings/resources/video/75853/video-26-september-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Functional Programming:
 
+• Lambda Expressions;
 
+• What Is a Function?;
+
+• Other Function Types;
+
+• BiFunction.
+
+Presentation:
+https://softuni.bg/trainings/resources/officedocument/74959/presentation-java-advanced-september-2022/3844
+
+Lab:
+https://softuni.bg/trainings/resources/video/75878/video-27-september-2022-martin-paunov-java-advanced-september-2022/3844
+
+Exercise:
+https://softuni.bg/trainings/resources/video/75957/video-29-september-2022-dimo-georgiev-java-advanced-september-2022/3844
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
